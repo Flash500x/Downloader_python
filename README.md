@@ -29,6 +29,14 @@
     <li>iso: Disk Image (ISO)</li>
 </ul></h5>
 
+<h2>Features:</h2>
+<ul>
+    <li>Designed for Functionality:</li>
+  <h6>Enhanced downloading compatibility with a wide selection of files. </h6>
+    <li>File type detection:</li>
+  <h6>Enhanced downloading compatibility with a wide selection of files. The file type is displayed while downloading. </h6>
+
+
 <h2>Preview:
  <br><br>
 
